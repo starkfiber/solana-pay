@@ -1,3 +1,5 @@
+> **SFE fork status:** This repository is a retained upstream fork in the [Stark Fiber Enterprise](https://starkfiber.my) portfolio. The upstream documentation below is historical and does not establish current service availability, wallet compatibility or a production-qualified SFE integration. Review upstream changes and run the relevant compatibility tests before using this fork in a product. Original authorship and licences are retained.
+
 # Solana Pay
 
 Solana Pay is a standard protocol and set of reference implementations that enable developers to incorporate decentralized payments into their apps and services.
